@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+
+# OS
+.DS_Store
+
+# Virtualenv
+env/
+venv/
+
+# Logs and dumps
+logs/
+*.log
+*.db
+config.bat
+node_modules
