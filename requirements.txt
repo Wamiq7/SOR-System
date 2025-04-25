@@ -1,0 +1,6 @@
+
+databento
+numpy
+pandas
+kafka-python
+pytest

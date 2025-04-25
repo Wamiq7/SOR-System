@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Virtualenv
+env/
+venv/
+
+# Logs and dumps
+logs/
+*.log
+*.db
